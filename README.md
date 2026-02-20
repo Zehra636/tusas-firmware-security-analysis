@@ -90,6 +90,11 @@ The goal was to partially automate firmware inspection workflows.
 
 ---
 
+## 📄 Full Technical Report
+
+👉 [View Detailed PDF Report](TUSAS_Firmware_Security_Analysis_Report.pdf)
+---
+
 ## Skills Demonstrated
 
 - Embedded Linux analysis
